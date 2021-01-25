@@ -1,0 +1,7 @@
+
+name: RakisePunish
+main: rakisepunish\rakisepunish
+version: 1.0
+author: Rakise
+api: [3.17.2]
+description: sistema de punições
